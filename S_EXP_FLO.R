@@ -5,6 +5,9 @@ source("helpers.R")
 
 
 locations <- readRDS("data/objects/locations")
+# data source: UNEP
+# # https://wesr.unepgrid.ch/?project=MX-XVK-HPH-OGN-HVE-GGN&language=en
+# https://wesr.unepgrid.ch/static.html?views=MX-JXZXA-MFZNN-LTXZ8&zoomToViews=true
 my_raster <- raster("data/Floods/fl_hazard_100_yrp.tif")
 
 r2 <- crop(my_raster, extent(locations)) ### crop to the extent
