@@ -1,0 +1,1730 @@
+<VRTDataset rasterXSize="720000" rasterYSize="720000">
+  <SRS dataAxisToSRSAxisMapping="2,1">GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AXIS["Latitude",NORTH],AXIS["Longitude",EAST],AUTHORITY["EPSG","4326"]]</SRS>
+  <GeoTransform>6.0000000000000000e+01,  8.3333333333333168e-05,  0.0000000000000000e+00,  3.0000000000000000e+01,  0.0000000000000000e+00, -8.3333333333333168e-05</GeoTransform>
+  <VRTRasterBand dataType="Byte" band="1">
+    <NoDataValue>0</NoDataValue>
+    <ColorInterp>Palette</ColorInterp>
+    <ColorTable>
+      <Entry c1="0" c2="0" c3="0" c4="0" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="100" c3="0" c4="255" />
+      <Entry c1="88" c2="72" c3="31" c4="255" />
+      <Entry c1="112" c2="102" c3="62" c4="255" />
+      <Entry c1="0" c2="153" c3="0" c4="255" />
+      <Entry c1="0" c2="204" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="255" c2="187" c3="34" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="255" c2="255" c3="76" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="240" c2="150" c3="255" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="250" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="180" c2="180" c3="180" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="240" c2="240" c3="240" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="100" c3="200" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="153" c2="217" c3="234" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="245" c2="233" c3="245" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="199" c2="213" c3="214" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="113" c2="194" c3="199" c4="255" />
+      <Entry c1="0" c2="150" c3="160" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="207" c3="117" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="250" c2="230" c3="160" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+    </ColorTable>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N00E072_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="144000" yOff="324000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N00E093_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="396000" yOff="324000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N00E096_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="432000" yOff="324000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N00E099_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="468000" yOff="324000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N00E102_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="504000" yOff="324000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N00E105_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="540000" yOff="324000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N00E108_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="576000" yOff="324000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N00E111_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="612000" yOff="324000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N00E114_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="648000" yOff="324000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N00E117_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="684000" yOff="324000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N03E072_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="144000" yOff="288000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N03E078_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="216000" yOff="288000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N03E093_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="396000" yOff="288000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N03E096_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="432000" yOff="288000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N03E099_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="468000" yOff="288000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N03E102_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="504000" yOff="288000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N03E105_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="540000" yOff="288000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N03E108_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="576000" yOff="288000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N03E111_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="612000" yOff="288000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N03E114_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="648000" yOff="288000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N03E117_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="684000" yOff="288000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N06E072_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="144000" yOff="252000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N06E075_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="180000" yOff="252000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N06E078_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="216000" yOff="252000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N06E081_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="252000" yOff="252000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N06E090_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="360000" yOff="252000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N06E093_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="396000" yOff="252000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N06E096_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="432000" yOff="252000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N06E099_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="468000" yOff="252000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N06E102_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="504000" yOff="252000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N06E105_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="540000" yOff="252000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N06E114_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="648000" yOff="252000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N06E117_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="684000" yOff="252000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N09E072_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="144000" yOff="216000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N09E075_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="180000" yOff="216000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N09E078_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="216000" yOff="216000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N09E081_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="252000" yOff="216000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N09E090_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="360000" yOff="216000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N09E093_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="396000" yOff="216000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N09E096_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="432000" yOff="216000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N09E099_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="468000" yOff="216000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N09E102_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="504000" yOff="216000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N09E105_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="540000" yOff="216000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N09E108_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="576000" yOff="216000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N09E111_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="612000" yOff="216000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N09E114_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="648000" yOff="216000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N09E117_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="684000" yOff="216000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N12E072_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="144000" yOff="180000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N12E075_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="180000" yOff="180000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N12E078_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="216000" yOff="180000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N12E090_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="360000" yOff="180000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N12E093_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="396000" yOff="180000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N12E096_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="432000" yOff="180000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N12E099_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="468000" yOff="180000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N12E102_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="504000" yOff="180000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N12E105_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="540000" yOff="180000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N12E108_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="576000" yOff="180000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N12E117_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="684000" yOff="180000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N15E072_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="144000" yOff="144000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N15E075_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="180000" yOff="144000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N15E078_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="216000" yOff="144000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N15E081_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="252000" yOff="144000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N15E093_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="396000" yOff="144000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N15E096_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="432000" yOff="144000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N15E099_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="468000" yOff="144000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N15E102_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="504000" yOff="144000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N15E105_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="540000" yOff="144000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N15E108_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="576000" yOff="144000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N15E111_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="612000" yOff="144000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N15E117_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="684000" yOff="144000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N18E069_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="108000" yOff="108000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N18E072_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="144000" yOff="108000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N18E075_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="180000" yOff="108000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N18E078_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="216000" yOff="108000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N18E081_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="252000" yOff="108000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N18E084_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="288000" yOff="108000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N18E087_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="324000" yOff="108000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N18E090_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="360000" yOff="108000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N18E093_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="396000" yOff="108000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N18E096_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="432000" yOff="108000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N18E099_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="468000" yOff="108000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N18E102_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="504000" yOff="108000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N18E105_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="540000" yOff="108000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N18E108_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="576000" yOff="108000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N18E111_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="612000" yOff="108000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N21E066_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="72000" yOff="72000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N21E069_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="108000" yOff="72000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N21E072_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="144000" yOff="72000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N21E075_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="180000" yOff="72000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N21E078_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="216000" yOff="72000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N21E081_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="252000" yOff="72000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N21E084_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="288000" yOff="72000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N21E087_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="324000" yOff="72000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N21E090_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="360000" yOff="72000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N21E093_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="396000" yOff="72000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N21E096_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="432000" yOff="72000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N21E099_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="468000" yOff="72000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N21E102_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="504000" yOff="72000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N21E105_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="540000" yOff="72000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N21E108_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="576000" yOff="72000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N21E111_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="612000" yOff="72000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N21E114_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="648000" yOff="72000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N21E117_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="684000" yOff="72000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N24E060_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="0" yOff="36000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N24E063_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="36000" yOff="36000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N24E066_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="72000" yOff="36000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N24E069_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="108000" yOff="36000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N24E072_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="144000" yOff="36000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N24E075_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="180000" yOff="36000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N24E078_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="216000" yOff="36000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N24E081_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="252000" yOff="36000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N24E084_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="288000" yOff="36000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N24E087_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="324000" yOff="36000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N24E090_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="360000" yOff="36000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N24E093_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="396000" yOff="36000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N24E096_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="432000" yOff="36000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N24E099_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="468000" yOff="36000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N24E102_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="504000" yOff="36000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N24E105_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="540000" yOff="36000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N24E108_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="576000" yOff="36000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N24E111_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="612000" yOff="36000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N24E114_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="648000" yOff="36000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N24E117_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="684000" yOff="36000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N27E060_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N27E063_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="36000" yOff="0" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N27E066_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="72000" yOff="0" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N27E069_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="108000" yOff="0" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N27E072_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="144000" yOff="0" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N27E075_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="180000" yOff="0" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N27E078_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="216000" yOff="0" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N27E081_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="252000" yOff="0" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N27E084_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="288000" yOff="0" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N27E087_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="324000" yOff="0" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N27E090_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="360000" yOff="0" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N27E093_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="396000" yOff="0" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N27E096_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="432000" yOff="0" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N27E099_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="468000" yOff="0" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N27E102_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="504000" yOff="0" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N27E105_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="540000" yOff="0" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N27E108_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="576000" yOff="0" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N27E111_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="612000" yOff="0" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N27E114_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="648000" yOff="0" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_N27E117_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="684000" yOff="0" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_S03E072_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="144000" yOff="360000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_S03E096_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="432000" yOff="360000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_S03E099_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="468000" yOff="360000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_S03E102_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="504000" yOff="360000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_S03E105_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="540000" yOff="360000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_S03E108_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="576000" yOff="360000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_S03E111_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="612000" yOff="360000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_S03E114_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="648000" yOff="360000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_S03E117_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="684000" yOff="360000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_S06E069_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="108000" yOff="396000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_S06E072_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="144000" yOff="396000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_S06E099_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="468000" yOff="396000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_S06E102_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="504000" yOff="396000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_S06E105_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="540000" yOff="396000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_S06E108_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="576000" yOff="396000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_S06E111_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="612000" yOff="396000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_S06E114_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="648000" yOff="396000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_S06E117_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="684000" yOff="396000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_S09E069_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="108000" yOff="432000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_S09E072_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="144000" yOff="432000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_S09E105_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="540000" yOff="432000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_S09E108_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="576000" yOff="432000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_S09E111_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="612000" yOff="432000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_S09E114_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="648000" yOff="432000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_S09E117_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="684000" yOff="432000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_S12E105_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="540000" yOff="468000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_S12E114_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="648000" yOff="468000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_S12E117_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="684000" yOff="468000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_S21E063_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="36000" yOff="576000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_S21E114_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="648000" yOff="576000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_S21E117_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="684000" yOff="576000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_S24E111_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="612000" yOff="612000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_S24E114_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="648000" yOff="612000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_S24E117_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="684000" yOff="612000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_S27E111_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="612000" yOff="648000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_S27E114_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="648000" yOff="648000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_S27E117_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="684000" yOff="648000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_S30E111_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="612000" yOff="684000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_S30E114_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="648000" yOff="684000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060/ESA_WorldCover_10m_2020_v100_S30E117_Map.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="36000" RasterYSize="36000" DataType="Byte" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="36000" ySize="36000" />
+      <DstRect xOff="684000" yOff="684000" xSize="36000" ySize="36000" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+</VRTDataset>
