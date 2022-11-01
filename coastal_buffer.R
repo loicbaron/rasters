@@ -27,3 +27,14 @@ st_write(
   layer_options = "ENCODING=UTF-8",
   append = FALSE
 )
+# admin_buffer <- st_read("output/admin_buffer.shp")
+admin_with_buffer <- rbind(admin_shp[c("GEOLEVEL2", "geometry")], admin_buffer) %>%
+  group_by(GEOLEVEL2) %>%
+  summarise()
+
+st_write(
+  admin_with_buffer,
+  "output/admin_with_buffer.shp",
+  layer_options = "ENCODING=UTF-8",
+  append = FALSE
+)
