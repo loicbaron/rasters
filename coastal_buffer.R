@@ -1,6 +1,5 @@
 install.packages("remotes")
 remotes::install_github("statnmap/cartomisc")
-
 library(cartomisc)
 library(dplyr)
 library(sf)
@@ -31,6 +30,10 @@ st_write(
 admin_with_buffer <- rbind(admin_shp[c("GEOLEVEL2", "geometry")], admin_buffer) %>%
   group_by(GEOLEVEL2) %>%
   summarise()
+
+admin_with_buffer <- admin_with_buffer %>%
+  left_join(st_drop_geometry(admin_shp), by = "GEOLEVEL2") %>%
+  st_as_sf()
 
 st_write(
   admin_with_buffer,
