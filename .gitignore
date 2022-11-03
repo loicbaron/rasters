@@ -1,3 +1,10 @@
+# ignore big landcover files
+# Get the Macro tile from ESA worldcover 2020
+# https://worldcover2020.esa.int/downloader
+# direct link for Asia:
+# https://worldcover2020.esa.int/data/archive/ESA_WorldCover_10m_2020_v100_60deg_macrotile_S30E060.zip
+data/ESA_Landcover/
+
 **/.DS_Store
 
 # History files
