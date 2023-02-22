@@ -2,6 +2,7 @@ library(dplyr)
 library(sf)
 
 # https://data.apps.fao.org/catalog/organization/fao-region-mapping
+# admin_with_buffer?
 admin_shp <- st_read("data/ADMIN/admin.shp")
 geo_red_river <- dplyr::filter(
   admin_shp, GEOLEVEL2 > 704001000 & GEOLEVEL2 < 704039000
